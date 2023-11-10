@@ -1,0 +1,27 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJc5s_dAxBHclWtgM07AHWoZ26JxdjijpopQ&usqp=CAU);
+     margin: 0;
+     padding: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+ }
+
+ #infoBox {
+     text-align: center;
+     padding: 20px;
+     background-color:#05090d;
+     color: #fff;
+     border-radius: 10px;
+ }
+
+ ul {
+     list-style-type: none;
+     padding: 0;
+ }
+
+ li {
+     margin: 10px 0;
+ }
